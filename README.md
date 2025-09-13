@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HAZZANAyatullah
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science- ML/AI
+
 - 💞️ I’m looking to collaborate on projects related to using data to innovate in climate and health
 - 📫 How to reach me @hzznayatullah16@gmail.com
 
